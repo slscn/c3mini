@@ -10,7 +10,7 @@ wlan.active(True)
 wlan.connect('Hkdaqian-SMART', 'daqianzhineng')
 
 # 配置静态IP
-静态IP = '192.168.1.122'
+静态IP = '192.168.1.120'
 子网掩码 = '255.255.255.0'
 网关 = '192.168.1.1'
 DNS服务器 = '223.5.5.5'
